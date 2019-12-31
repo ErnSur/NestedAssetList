@@ -1,0 +1,9 @@
+{
+  "name": "com.quickeye.nestedassetlist",
+  "displayName": "Nested Asset List",
+  "version": "1.0.0",
+  "unity": "2019.1",
+  "author": "Ernest Sury\u015b",
+  "description": "Property Drawer/ListContainer that makes it easy to add/remove nested Scriptable Object assets.",
+  "type": "tool"
+}

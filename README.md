@@ -1,0 +1,1 @@
+Property Drawer/ListContainer that makes it easy to add/remove nested Scriptable Object assets.

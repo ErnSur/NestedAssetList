@@ -1,0 +1,15 @@
+{
+    "name": "QuickEye.NestedAssetList.Demo",
+    "references": [
+        "GUID:a4672db8207e3294a8075139d2717a06"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
